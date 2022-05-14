@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Subbarao</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **JS,　React,　Python**
-
 - 📫 How to reach me **Subbarao.Michael@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
