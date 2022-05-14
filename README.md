@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Subbarao</h1>
-<h3 align="center">An Aspiring Full Stack Web Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 
 - 📫 How to reach me **Subbarao.Michael@gmail.com**
 
