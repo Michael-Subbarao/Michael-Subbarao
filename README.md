@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Subbarao</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">I have a passion for Web Development and Japanese. After learning Javascript during my Bachelor's Degree in Japan at Yamanashi Gakuin University, I found a deep love of programming. I love learning languages and I have found programming languages no different. I've found I can even apply all of the same language learning techniques I used to learn Japanese to languages like JavaScript. My goal is to become fluent enough to start dreaming in JavaScript in the same way I do Japanese or English.
+
+When I'm not learning new Web Development skills, I'm honing my language learning skills</h3>
 
 - 📫 How to reach me **Subbarao.Michael@gmail.com**
 
